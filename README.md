@@ -16,14 +16,9 @@ This was a challenge to help practice using the HTML form element. CSS was not r
 
 ### Screenshot
 
-![](project-screenshots/screenshot-1.jpg?raw=true)
-![](project-screenshots/screenshot-2.jpg?raw=true)
-![](project-screenshots/screenshot-3.jpg?raw=true)
+![](project-screenshots/screenshot-4.jpg?raw=true)
+![](project-screenshots/screenshot-5.jpg?raw=true)
 
-
-### Links
-
-- Live Site URL: [Add live site URL here]
 
 ### What I learned
 
