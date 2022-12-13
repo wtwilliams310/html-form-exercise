@@ -1,0 +1,132 @@
+* {
+	margin: none;
+	padding: none;
+}
+body {
+	font-family: 'Inter', sans-serif;
+
+}
+
+form {
+	margin-left: 20px;
+	width: 100%;
+	max-width: 580px;
+}
+
+p {
+	width: 100%;
+/*	margin-top: 450;*/
+}
+h2 {
+	font-size: large;
+	font-weight: 400;
+	margin-top: ;
+}
+
+.some-field {
+	width: 250px;
+	border-radius: 5px;
+	border-width: .5;
+	height: 30px;
+	border-style: solid;
+	border-color: lightgray;
+}
+
+.name-field {
+	display: flex;
+	
+}
+
+.name-label {
+	display: flex;
+	flex-direction: row;
+/*	flex-grow: 1;*/
+	column-gap: 205px;
+	font-size: small;
+	margin-top: 10px;
+
+}
+
+.title {
+	margin-top: 50px;
+}
+
+.email-label {
+	font-size: small;
+	margin-top: 10px;
+	padding-left: 2px;
+}
+
+.text-area {
+	width: 525px;
+	height: 150px;
+	border-radius: 5px;
+	border-width: .5;
+	border-style: solid;
+	border-color: lightgray;
+}
+
+::placeholder {
+	color: lightgray;
+}
+
+
+.sig-area {
+	width: 250px;
+	height: 100px;
+}
+  
+.clear-button {
+	color: hsl(219, 19%, 42%);
+	background-color: hsl(218, 96%, 95%);
+	border: none;
+	border-radius: 5px;
+	height: 25px;
+	width: 50px;
+	margin-left: 205px;
+	margin-bottom: 25px;
+}
+
+.hr-line {
+
+}
+
+.submit-button {
+/*	align-content: center;*/
+	/*margin-left: auto;
+	margin-right: auto;*/
+	text-align: center;
+	margin-top: 20px;
+}
+
+.sub-button {
+	border-radius: 5px;
+	border: none;
+	background-color: hsl(145, 78%, 42%);
+	color: white;
+	width: 200px;
+	height: 45px;
+	font-size: 1.1em;
+	margin-top: 20px;
+
+
+}
+
+#color-par {
+	color: hsl(192, 100%, 50%);
+	font-weight: bolder;
+}
+
+.special-field {
+	margin-bottom: 60px;
+}
+
+.date-field {
+	margin-top: 70px;
+	margin-bottom: 50px;
+}
+
+
+
+
+
