@@ -36,7 +36,3 @@ This was a challenge to help practice using the HTML form element. CSS was not r
 
 I want to begin working on using eventListeners instead of onclick. I also will continue working on using flexbox.
 
-
-## Author
-
-- Frontend Mentor - [@wtwilliams310](https://www.frontendmentor.io/profile/wtwilliams310)
